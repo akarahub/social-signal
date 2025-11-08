@@ -1,0 +1,4 @@
+log_dir: folder\
+base_model: google-bert/bert-base-uncased # Placeholder
+data_path: folder\file.csv
+output_dir: folder
